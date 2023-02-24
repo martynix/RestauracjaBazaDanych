@@ -1,4 +1,4 @@
-#Projekt konceptualny
+# Projekt konceptualny
 Celem projektu jest sporządzenie projektu bazy danych dla Sieci Restauracji zawierającej dane 
 o placówkach, pracownikach, rezerwacjach, klientach, zamówieniach, potrawach, składnikach, 
 stanach magazynów, dostawach itp.
@@ -29,19 +29,19 @@ Przepisy – tabela zawiera dane o przepisach na dania
 Zamówienia na składniki - tabela zawiera informacje o zamówionej liczbie składników do 
 magazynu danej restauracji
 
-#Scenariusze użycia
+# Scenariusze użycia
 ![Scenariusze użycia](https://user-images.githubusercontent.com/112055662/221262760-87e98adb-2125-4152-8da4-360b53611045.png)
 
-#Projekt logiczny
+# Projekt logiczny
 ##Model relacyjny przed normalizacją
 ![](https://user-images.githubusercontent.com/112055662/221263008-ee5b8cf2-7d4b-44c9-891f-c168300059dd.png)
 
-##Normalizacja
+## Normalizacja
 Każda tabela została poddana normalizacji. Przebieg normalizacji wszystkich tabel znajduje się w sekcji _Issues_.
 ![](https://user-images.githubusercontent.com/112055662/221266396-71e4e99a-16fe-4937-b177-e1d2ac8d2150.png)
 
 
-##Model relacyjny po normalizacji
+## Model relacyjny po normalizacji
 ![](https://user-images.githubusercontent.com/112055662/221263997-3097bd0d-c749-4361-b6fe-780c97807401.png)
 
 W celu analizy danych wprowadzonych do bazy, sporządzono 15 kwerend, w tym: wybierające, zliczające, sortujące i wyszukujące.
