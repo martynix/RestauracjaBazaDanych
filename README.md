@@ -1,4 +1,7 @@
 # Projekt konceptualny
+
+A university project made by /martynix , /abeestungme & /RakoczyKrzysztof .
+
 Celem projektu jest sporządzenie projektu bazy danych dla Sieci Restauracji zawierającej dane 
 o placówkach, pracownikach, rezerwacjach, klientach, zamówieniach, potrawach, składnikach, 
 stanach magazynów, dostawach itp.
