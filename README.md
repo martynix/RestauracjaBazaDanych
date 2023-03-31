@@ -1,7 +1,5 @@
 # Projekt konceptualny
 
-A university project made by /martynix , /abeestungme & /RakoczyKrzysztof .
-
 Celem projektu jest sporządzenie projektu bazy danych dla Sieci Restauracji zawierającej dane 
 o placówkach, pracownikach, rezerwacjach, klientach, zamówieniach, potrawach, składnikach, 
 stanach magazynów, dostawach itp.
@@ -48,3 +46,5 @@ Każda tabela została poddana normalizacji. Przebieg normalizacji wszystkich ta
 ![](https://user-images.githubusercontent.com/112055662/221263997-3097bd0d-c749-4361-b6fe-780c97807401.png)
 
 W celu analizy danych wprowadzonych do bazy, sporządzono 15 kwerend, w tym: wybierające, zliczające, sortujące i wyszukujące.
+
+A university project made by /martynix , /abeestungme & /RakoczyKrzysztof .
