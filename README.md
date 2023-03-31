@@ -4,31 +4,31 @@ Celem projektu jest sporządzenie projektu bazy danych dla Sieci Restauracji zaw
 o placówkach, pracownikach, rezerwacjach, klientach, zamówieniach, potrawach, składnikach, 
 stanach magazynów, dostawach itp.
 
-Restauracje – tabela zawierająca dane o istniejących w sieci restauracjach oraz ich adresach
+Restauracje – tabela zawierająca dane o istniejących w sieci restauracjach oraz ich adresach <br />
 Manager – tabela zawierająca dane (imię i nazwisko, adres zamieszkania, numer kontaktowy)
-menegerów, jeden meneger jest przydzielony i zarządza jedną konkretną restauracją
+menegerów, jeden meneger jest przydzielony i zarządza jedną konkretną restauracją <br />
 Pracownicy – tabela zawiera dane o pracownikach sieci restauracji (imię i nazwisko, adres 
-zamieszkania, numer kontaktowy)
-Kucharze – tabela zawiera dane o szczególnym typie pracowników czyli kucharzach
+zamieszkania, numer kontaktowy) <br />
+Kucharze – tabela zawiera dane o szczególnym typie pracowników czyli kucharzach <br />
 Zmiana – zmiana jest to tabela zawierająca informację o konkretnej zmianie pracującej w 
 restauracji w konketnym dniu i godzinach; do zmiany należy kilku pracowników i jeden lub 
-więcej kucharzy
+więcej kucharzy <br />
 Stoliki – tabela zawiera informacje o możliwych konfiguracjach stolików w restauracji i liczbie 
-osób, którą dany stolik będzie w stanie pomieścić
+osób, którą dany stolik będzie w stanie pomieścić <br />
 Magazyn – tabela zawiera informacje o stania magazynu (ilości składników jakie się w nim 
 znajdują) oraz jego lokalizacji (lokalizacja magazynu będzie taka sama jak restauracji do której 
-on należy)
+on należy) <br />
 Klient - zawiera informacje o klientach (imię i nazwisko, adres zamieszkania, numer 
-kontaktowy)
-Rezerwacje – tabela zawiera informacje o złożonych przez klientów rezerwacjach
-Zamówienia - tabela zawiera informacje o zamówieniach złożonych przez klienta
+kontaktowy) <br />
+Rezerwacje – tabela zawiera informacje o złożonych przez klientów rezerwacjach <br />
+Zamówienia - tabela zawiera informacje o zamówieniach złożonych przez klienta <br />
 Paragon – zawiera informacje o paragonie do zamówienia – ilość zawartych rzeczy, koszt 
-poszczególnych składników oraz całego zamówienia
-Menu – zawiera menu restauracji
-Danie – zawiera informacje o daniu – gramatura, alergeny
-Przepisy – tabela zawiera dane o przepisach na dania
+poszczególnych składników oraz całego zamówienia <br />
+Menu – zawiera menu restauracji <br />
+Danie – zawiera informacje o daniu – gramatura, alergeny <br />
+Przepisy – tabela zawiera dane o przepisach na dania <br />
 Zamówienia na składniki - tabela zawiera informacje o zamówionej liczbie składników do 
-magazynu danej restauracji
+magazynu danej restauracji <br />
 
 # Scenariusze użycia
 ![Scenariusze użycia](https://user-images.githubusercontent.com/112055662/221262760-87e98adb-2125-4152-8da4-360b53611045.png)
