@@ -4,7 +4,7 @@ Celem projektu jest sporządzenie projektu bazy danych dla Sieci Restauracji zaw
 o placówkach, pracownikach, rezerwacjach, klientach, zamówieniach, potrawach, składnikach, 
 stanach magazynów, dostawach itp.
 
-Restauracje – tabela zawierająca dane o istniejących w sieci restauracjach oraz ich adresach <br />
+Restauracje – tabela zawierająca dane o istniejących w sieci restauracjach oraz o ich adresach <br />
 Manager – tabela zawierająca dane (imię i nazwisko, adres zamieszkania, numer kontaktowy)
 menegerów, jeden meneger jest przydzielony i zarządza jedną konkretną restauracją <br />
 Pracownicy – tabela zawiera dane o pracownikach sieci restauracji (imię i nazwisko, adres 
